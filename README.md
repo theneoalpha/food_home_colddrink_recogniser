@@ -1,16 +1,41 @@
-# Food, Home And ColdDrink Recogniser ML Project
+# Food, Home And ColdDrink Recogniser ML Project :Image Recognition App using TensorFlow in Flutter
 
-A new Flutter project.
+        Initial project just for testing teachable machine and flutter integration
 
-## Getting Started
+        Developed a mobile application utilizing Flutter and TensorFlow, enabling real-time image recognition.
 
-This project is a starting point for a Flutter application.
+        Designed an intuitive user interface for image capture and result display, ensuring a user-friendly experience.
 
-A few resources to get you started if this is your first Flutter project:
+        Demonstrated proficiency in mobile app development and machine learning integration, showcasing technical and problem-solving skills.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Some Screenshots
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<p float="left">
+
+# Pre-Processing Screen
+  <img src="./images/pre.jpeg"  />
+
+# Post-processing Screen  
+  <img src="./images/post.jpeg"  /> 
+ 
+</p>
+
+# Installation Process
+
+        Step 1: Clone the repo by using terminal
+
+                    git clone git@github.com:theneoalpha/food_home_colddrink_recogniser.git
+
+
+        Step 2 : Open the project in your IDE
+
+                    cd food_home_colddrink_recogniser
+
+        Step 3: Run flutter pub get
+
+                    flutter pub get
+
+        Step 4: Run the Project                                    
+
+
+
